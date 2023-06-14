@@ -88,8 +88,8 @@ h2 {
 
 .chair-v2 {
   position: absolute;
-  top: 60%;
+  top: 52%;
   left: 30%;
-  transform: translate(-70%, -60%);
+  transform: translate(-70%, -52%);
   height: 60%;
 }

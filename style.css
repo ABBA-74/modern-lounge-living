@@ -20,6 +20,7 @@ section {
 .s1 {
   background-image: url('./assets/img/couch.jpg');
   background-size: cover;
+  background-position: center bottom;
 }
 
 .section h1 {
